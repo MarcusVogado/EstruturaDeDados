@@ -137,7 +137,7 @@ Console.WriteLine($"Confirm in Portuguese is: {dicTraducao2[linguagemSelecionada
 
 #endregion
 
-#region LISTA LIGADA(NÓS)
+#region LISTA LIGADA
 
 Console.WriteLine("LISTA LIGADA(LINKEDLIST)__________________________________________");
 LinkedList<string> playList = new LinkedList<string>();
